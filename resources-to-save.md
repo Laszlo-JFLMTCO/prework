@@ -25,4 +25,5 @@
 
 ## If you have always been a Windows user...  
 * [Official Apple "New to Mac" intro](https://support.apple.com/explore/new-to-mac)  
-* 
+* [Try out MacOS in your browser](http://www.alessioatzeni.com/mac-osx-lion-css3/)  
+* [MacOS shortcuts](https://support.apple.com/en-us/HT201236)
